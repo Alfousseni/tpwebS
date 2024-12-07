@@ -1,0 +1,11 @@
+{
+  "generator-jhipster": {
+    "adminPassword": "admin",
+    "appsFolders": ["gateway", "ms1", "ms2"],
+    "directoryPath": "C:\\Users\\AlfTech\\Documents\\COURSM2\\TP2/",
+    "jhipsterVersion": "8.7.3",
+    "jwtSecretKey": "MzUyMzIyYTBhMjJhZWE5MTAzNmZiNDMyNzM3NjJmZmZmNWJjNTQwY2RlMTY2NDc3OTUwNDkzZGFhNTMxMDBiY2U4ZDZhYjczMGY5ZWNjZjc2OGIwNGZlNzVjYjJjNGM2NWM5Nw==",
+    "monitoring": "no",
+    "serviceDiscoveryType": "eureka"
+  }
+}
